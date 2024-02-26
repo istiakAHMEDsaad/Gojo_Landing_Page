@@ -1,6 +1,6 @@
 # Gojo_Landing_Page
 Website:
-https://istiakahammedsaad.github.io/Gojo_Landing_Page/
+https://istiakahmedsaad.github.io/Gojo_Landing_Page/
 
 Here I use:
 
